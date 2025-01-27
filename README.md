@@ -1,4 +1,4 @@
-# 💫 About Me:
+## 💫 About Me:
 Desenvolvedor Front-End com formação em Ciência da Computação e experiência prática em ReactJS e TypeScript. 
 
 ## 🌐 Socials:
@@ -11,7 +11,7 @@ Desenvolvedor Front-End com formação em Ciência da Computação e experiênci
   </a>
 </div>
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -42,9 +42,9 @@ Desenvolvedor Front-End com formação em Ciência da Computação e experiênci
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="40" alt="confluence logo"  />
 </div>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=mtsgb&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ayu-mirage&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mtsgb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ayu-mirage&hide_border=true&order=2" height="100" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mtsgb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ayu-mirage&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
